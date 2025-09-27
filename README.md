@@ -1,3 +1,5 @@
-# Disertatie - PhotoContests
+# PhotoContests
 
-## [Frontend] (https://github.com/postolache-andreea-miruna/FrontendPhotoContests)
+Aplicația a fost realizată pentru proiectul de disertație.
+
+## [Frontend](https://github.com/postolache-andreea-miruna/FrontendPhotoContests)
